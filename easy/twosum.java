@@ -1,3 +1,6 @@
+
+import java.util.HashMap;
+
 // LeetCode: Two Sum
 // Link: https://leetcode.com/problems/two-sum/
 // Difficulty: Easy
